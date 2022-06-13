@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Better Grade';
+    src: url('BetterGrade.eot');
+    src: url('BetterGrade.eot?#iefix') format('embedded-opentype'),
+        url('BetterGrade.woff2') format('woff2'),
+        url('BetterGrade.woff') format('woff'),
+        url('BetterGrade.ttf') format('truetype'),
+        url('BetterGrade.svg#BetterGrade') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
